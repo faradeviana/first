@@ -99,8 +99,7 @@ $ cd latihan1``
 * Dari menu (icon +) klik New Repository
 
 
-![5](https://user-images.githubusercontent.com/72803399/96364820-b969ff00-1166-11eb-82ef-25b2a2f4d3a6.jpg)
-
+![Untitled](https://user-images.githubusercontent.com/72803399/96364825-c1c23a00-1166-11eb-8746-8e3fe3536db3.jpg)
 
 
 
@@ -124,7 +123,6 @@ $ cd latihan1``
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
 
-![Untitled](https://user-images.githubusercontent.com/72803399/96364825-c1c23a00-1166-11eb-8746-8e3fe3536db3.jpg)
 
 
 
