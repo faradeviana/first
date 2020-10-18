@@ -131,7 +131,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (2)](https://user-images.githubusercontent.com/72916741/96108575-ef5d7800-0f07-11eb-8dcc-3f0dc413c566.png)
+![Untitled](https://user-images.githubusercontent.com/72803399/96364825-c1c23a00-1166-11eb-8746-8e3fe3536db3.jpg)
 
 
 ### Clone Repository
