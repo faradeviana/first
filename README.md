@@ -99,7 +99,8 @@ $ cd latihan1``
 * Dari menu (icon +) klik New Repository
 
 
-![image](https://user-images.githubusercontent.com/72803399/96365253-69d90280-1169-11eb-9784-c42151b1054a.png)![1111](https://user-images.githubusercontent.com/72803399/96365290-c2100480-1169-11eb-8005-c52f0cf6c21d.jpg)
+![name](https://user-images.githubusercontent.com/72803399/96365370-45c9f100-116a-11eb-8ea1-cdbadb57de2a.jpg)
+
 
 
 ### Membuat repository server
