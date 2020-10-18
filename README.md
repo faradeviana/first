@@ -99,7 +99,7 @@ $ cd latihan1``
 * Dari menu (icon +) klik New Repository
 
 
-![Untitled](https://user-images.githubusercontent.com/72803399/96364825-c1c23a00-1166-11eb-8746-8e3fe3536db3.jpg)
+![image](https://user-images.githubusercontent.com/72803399/96365253-69d90280-1169-11eb-9784-c42151b1054a.png)
 
 
 
