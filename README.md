@@ -66,7 +66,8 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File **README.md** berhasil dibuat.
 
-![Screenshot (5)](https://user-images.githubusercontent.com/72916741/96330291-53a24800-107e-11eb-8d0f-f5b76e3b2329.png)
+![2](https://user-images.githubusercontent.com/72803399/96364804-9f302100-1166-11eb-88c2-9fcd79f4fd75.jpg)
+
 
 ### Menambahkan File baru pada repository
 
@@ -74,7 +75,10 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (7)](https://user-images.githubusercontent.com/72916741/96330753-fd370880-1081-11eb-9068-61deb9b3ffaf.png)
+
+![3](https://user-images.githubusercontent.com/72803399/96364808-a6572f00-1166-11eb-9c33-91bdd0ebc369.jpg)
+
+
 
 ### `Commit` (Menyimpan perubahan ke database)
 
@@ -82,7 +86,9 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![Screenshot (11)](https://user-images.githubusercontent.com/72916741/96331119-e9d96c80-1084-11eb-9bc3-1829540ae513.png)
+
+![git 4](https://user-images.githubusercontent.com/72803399/96364811-afe09700-1166-11eb-8bef-b982004b6476.jpg)
+
 
 
 ### Membuat repository server
@@ -92,7 +98,10 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (1)](https://user-images.githubusercontent.com/72916741/96107964-3eef7400-0f07-11eb-9f99-01278f784f64.png)
+
+![5](https://user-images.githubusercontent.com/72803399/96364820-b969ff00-1166-11eb-82ef-25b2a2f4d3a6.jpg)
+
+
 
 
 ### Membuat repository server
@@ -114,7 +123,9 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (13)](https://user-images.githubusercontent.com/72916741/96331202-9fa4bb00-1085-11eb-8030-90700efa0451.png)
+
+![Untitled](https://user-images.githubusercontent.com/72803399/96364825-c1c23a00-1166-11eb-8746-8e3fe3536db3.jpg)
+
 
 
 ### Melihat hasilnya pada server repository
@@ -130,7 +141,9 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (9)](https://user-images.githubusercontent.com/72916741/96330815-aed63980-1082-11eb-8850-49261976de26.png)
+
+![WhatsApp Image 2020-10-18 at 5 08 27 PM](https://user-images.githubusercontent.com/72803399/96364829-cb4ba200-1166-11eb-898f-27f654f26f51.jpeg)
+
 
 ### Kegunaan file README.md
 
