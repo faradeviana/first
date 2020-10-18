@@ -123,7 +123,7 @@ $ cd latihan1``
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
 
-
+![3](https://user-images.githubusercontent.com/72803399/96364808-a6572f00-1166-11eb-9c33-91bdd0ebc369.jpg)
 
 
 ### Melihat hasilnya pada server repository
